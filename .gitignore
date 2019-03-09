@@ -3,3 +3,4 @@
 others-nb/
 .ipynb_checkpoints/
 *.json
+*.html
