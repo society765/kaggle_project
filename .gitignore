@@ -1,6 +1,16 @@
-*.csv
+# system files or automatically generated files
 .DS_Store
-others-nb/
 .ipynb_checkpoints/
+
+# irrelevant folders
+others-nb/
+learning/
+data/
+
+# data files
+*.csv
 *.json
+*.zip 
+
+# others 
 *.html
