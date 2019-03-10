@@ -1,3 +1,6 @@
 ## My Kaggle learning project 
-to be updated...
+
+Please visit my [kaggle homepage](https://www.kaggle.com/society765). 
+
+To be updated...
 
